@@ -5,6 +5,7 @@ numero1 = 4
 numero2 = 5
 suma = numero1 + numero2
 print(suma)
+print('El resultado de la suma es: ', suma)
 print("_________________________________")
 #Tipos de datos
 #Dato Entero
