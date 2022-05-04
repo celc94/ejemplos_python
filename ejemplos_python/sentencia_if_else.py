@@ -1,9 +1,9 @@
 #Sentencia if else
 condicion = bool(input('True/False: '))
 
-if condicion == True:
+if condicion == False:
     print('Condición Verdadera')
-elif condicion == False:
+elif condicion == True:
     print('condición Falsa')    
 else:
     print('Condición no Reconocida')
