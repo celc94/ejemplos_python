@@ -1,7 +1,5 @@
 #Colección Set: No mantiene un orden, y no permite almacenar elementos duplicados, no permite
 #modificar los elementos almacenados, pero si se pueden agregar o eliminar mas elementos
-from logging.config import dictConfig
-
 
 planetas = {'Marte', 'Júpiter', 'Venus'}
 print(planetas)
